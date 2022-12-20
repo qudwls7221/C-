@@ -1,0 +1,16 @@
+C:\Users\유병진\source\repos\qudwls7221\C-\DDazua\002_Variable\bin\Debug\002_Variable.exe.config
+C:\Users\유병진\source\repos\qudwls7221\C-\DDazua\002_Variable\bin\Debug\002_Variable.exe
+C:\Users\유병진\source\repos\qudwls7221\C-\DDazua\002_Variable\bin\Debug\002_Variable.pdb
+C:\Users\유병진\source\repos\qudwls7221\C-\DDazua\002_Variable\obj\Debug\002_Variable.csproj.AssemblyReference.cache
+C:\Users\유병진\source\repos\qudwls7221\C-\DDazua\002_Variable\obj\Debug\002_Variable.csproj.SuggestedBindingRedirects.cache
+C:\Users\유병진\source\repos\qudwls7221\C-\DDazua\002_Variable\obj\Debug\002_Variable.csproj.CoreCompileInputs.cache
+C:\Users\유병진\source\repos\qudwls7221\C-\DDazua\002_Variable\obj\Debug\002_Variable.exe
+C:\Users\유병진\source\repos\qudwls7221\C-\DDazua\002_Variable\obj\Debug\002_Variable.pdb
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\002_Variable\bin\Debug\002_Variable.exe.config
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\002_Variable\bin\Debug\002_Variable.exe
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\002_Variable\bin\Debug\002_Variable.pdb
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\002_Variable\obj\Debug\002_Variable.csproj.AssemblyReference.cache
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\002_Variable\obj\Debug\002_Variable.csproj.SuggestedBindingRedirects.cache
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\002_Variable\obj\Debug\002_Variable.csproj.CoreCompileInputs.cache
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\002_Variable\obj\Debug\002_Variable.exe
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\002_Variable\obj\Debug\002_Variable.pdb

@@ -1,0 +1,8 @@
+C:\Users\유병진\source\repos\qudwls7221\C-\DDazua\001_HelloWorld\bin\Debug\001_HelloWorld.exe.config
+C:\Users\유병진\source\repos\qudwls7221\C-\DDazua\001_HelloWorld\bin\Debug\001_HelloWorld.exe
+C:\Users\유병진\source\repos\qudwls7221\C-\DDazua\001_HelloWorld\bin\Debug\001_HelloWorld.pdb
+C:\Users\유병진\source\repos\qudwls7221\C-\DDazua\001_HelloWorld\obj\Debug\001_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\유병진\source\repos\qudwls7221\C-\DDazua\001_HelloWorld\obj\Debug\001_HelloWorld.csproj.SuggestedBindingRedirects.cache
+C:\Users\유병진\source\repos\qudwls7221\C-\DDazua\001_HelloWorld\obj\Debug\001_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\유병진\source\repos\qudwls7221\C-\DDazua\001_HelloWorld\obj\Debug\001_HelloWorld.exe
+C:\Users\유병진\source\repos\qudwls7221\C-\DDazua\001_HelloWorld\obj\Debug\001_HelloWorld.pdb
