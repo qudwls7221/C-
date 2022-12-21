@@ -1,0 +1,8 @@
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\003_Interger\bin\Debug\003_Interger.exe.config
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\003_Interger\bin\Debug\003_Interger.exe
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\003_Interger\bin\Debug\003_Interger.pdb
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\003_Interger\obj\Debug\003_Interger.csproj.AssemblyReference.cache
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\003_Interger\obj\Debug\003_Interger.csproj.SuggestedBindingRedirects.cache
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\003_Interger\obj\Debug\003_Interger.csproj.CoreCompileInputs.cache
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\003_Interger\obj\Debug\003_Interger.exe
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\003_Interger\obj\Debug\003_Interger.pdb

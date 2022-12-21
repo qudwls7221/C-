@@ -1,0 +1,8 @@
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\004_Float_Double\bin\Debug\004_Float_Double.exe.config
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\004_Float_Double\bin\Debug\004_Float_Double.exe
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\004_Float_Double\bin\Debug\004_Float_Double.pdb
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\004_Float_Double\obj\Debug\004_Float_Double.csproj.AssemblyReference.cache
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\004_Float_Double\obj\Debug\004_Float_Double.csproj.SuggestedBindingRedirects.cache
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\004_Float_Double\obj\Debug\004_Float_Double.csproj.CoreCompileInputs.cache
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\004_Float_Double\obj\Debug\004_Float_Double.exe
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\004_Float_Double\obj\Debug\004_Float_Double.pdb

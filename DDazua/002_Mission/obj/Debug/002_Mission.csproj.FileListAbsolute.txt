@@ -1,0 +1,8 @@
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\002_Mission\bin\Debug\002_Mission.exe.config
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\002_Mission\bin\Debug\002_Mission.exe
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\002_Mission\bin\Debug\002_Mission.pdb
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\002_Mission\obj\Debug\002_Mission.csproj.AssemblyReference.cache
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\002_Mission\obj\Debug\002_Mission.csproj.SuggestedBindingRedirects.cache
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\002_Mission\obj\Debug\002_Mission.csproj.CoreCompileInputs.cache
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\002_Mission\obj\Debug\002_Mission.exe
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\002_Mission\obj\Debug\002_Mission.pdb
