@@ -1,0 +1,8 @@
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\009_Var\bin\Debug\009_Var.exe.config
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\009_Var\bin\Debug\009_Var.exe
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\009_Var\bin\Debug\009_Var.pdb
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\009_Var\obj\Debug\009_Var.csproj.AssemblyReference.cache
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\009_Var\obj\Debug\009_Var.csproj.SuggestedBindingRedirects.cache
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\009_Var\obj\Debug\009_Var.csproj.CoreCompileInputs.cache
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\009_Var\obj\Debug\009_Var.exe
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\009_Var\obj\Debug\009_Var.pdb
