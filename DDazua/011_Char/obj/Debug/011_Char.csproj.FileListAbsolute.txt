@@ -1,0 +1,8 @@
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\011_Char\bin\Debug\011_Char.exe.config
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\011_Char\bin\Debug\011_Char.exe
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\011_Char\bin\Debug\011_Char.pdb
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\011_Char\obj\Debug\011_Char.csproj.AssemblyReference.cache
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\011_Char\obj\Debug\011_Char.csproj.SuggestedBindingRedirects.cache
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\011_Char\obj\Debug\011_Char.csproj.CoreCompileInputs.cache
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\011_Char\obj\Debug\011_Char.exe
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\011_Char\obj\Debug\011_Char.pdb

@@ -1,0 +1,8 @@
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\012_WriteLine\bin\Debug\012_WriteLine.exe.config
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\012_WriteLine\bin\Debug\012_WriteLine.exe
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\012_WriteLine\bin\Debug\012_WriteLine.pdb
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\012_WriteLine\obj\Debug\012_WriteLine.csproj.AssemblyReference.cache
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\012_WriteLine\obj\Debug\012_WriteLine.csproj.SuggestedBindingRedirects.cache
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\012_WriteLine\obj\Debug\012_WriteLine.csproj.CoreCompileInputs.cache
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\012_WriteLine\obj\Debug\012_WriteLine.exe
+C:\Users\유병진\OneDrive\문서\GitHub\C-\DDazua\012_WriteLine\obj\Debug\012_WriteLine.pdb
